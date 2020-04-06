@@ -4,7 +4,7 @@
 <main>
 
     <div class="container pt-3">
-        <h2 class="text-warning text-center py-3">PHP Date and Time</h2>
+        <h2 class="text-warning text-center py-3">PHP Cookies</h2>
         <div class="row">
             <div class="col-md-3">
                 sidebar

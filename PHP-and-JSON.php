@@ -4,20 +4,25 @@
 <main>
 
     <div class="container pt-3">
-        <h2 class="text-warning text-center py-3">PHP Sessions</h2>
+        <h2 class="text-warning text-center py-3">PHP and JSON</h2>
         <div class="row">
             <div class="col-md-3">
                 sidebar
             </div>
             <div class="col-md-9">
 
-                <h3>Session?</h3>
+                <h3>What is JSON?</h3>
                 <p>
-                    A session is a way to store information (in variables) to be used across multiple pages.
+                    JSON stands for JavaScript Object Notation, and is a syntax for storing and exchanging data.
                 </p>
                 <p>
-                    A session is a way to store information (in variables) to be used across multiple pages.
+                    Since the JSON format is a text-based format, it can easily be sent to and from a server, and used as a data format by any programming language.
                 </p>
+
+                <code>
+                    json_encode() <br>
+                    json_decode()
+                </code>
 
                 <p>When you work with an application, you open it, do some changes, and then you close it. This is much like a Session. The computer knows who you are. It knows when you start the application and when you end. But on the internet there is one problem: the web server does not know who you are or what you do, because the HTTP address doesn't maintain state.</p>
                 <p>Session variables solve this problem by storing user information to be used across multiple pages (e.g. username, favorite color, etc). By default, session variables last until the user closes the browser.</p>

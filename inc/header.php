@@ -60,6 +60,19 @@
                             <a class="dropdown-item" href="Date-and-Time.php">Date and Time</a>
                             <a class="dropdown-item" href="Cookies.php">Cookies</a>
                             <a class="dropdown-item" href="Sessions.php">Sessions</a>
+                            <a class="dropdown-item" href="PHP-and-JSON.php">PHP and JSON</a>
+
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            PHP OOP
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="e-Vuejs-Lifecycle-hooks.php">e-Vuejs-Lifecycle-hooks</a>
+                            <a class="dropdown-item" href="#">Another action</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="#">Something else here</a>
                         </div>
